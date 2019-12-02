@@ -1,3 +1,9 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
 .bg-mania {
   background-image: url("https://img.freepik.com/free-vector/music-notes-with-lgbt-colors-neon-sign_1262-21559.jpg?size=338&ext=jpg");
 }
