@@ -1,0 +1,20 @@
+.bg-mania {
+  background-image: url("https://img.freepik.com/free-vector/music-notes-with-lgbt-colors-neon-sign_1262-21559.jpg?size=338&ext=jpg");
+}
+
+.bg-main {
+  background-image: url("https://wallpaperplay.com/walls/full/c/5/3/34778.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.headtxt {
+  text-shadow: 2px 2px indigo;
+}
+
+.maintxt {
+  text-shadow: 2px 2px black;
+}
+
